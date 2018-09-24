@@ -4,7 +4,52 @@
 
 }
 .hien{
+background: black;
+width: 100%;
+height: 300px;
+}
+.hien .box{
+	float: left;
+	width: 30%;
+	height: 100%;
+	background: black;
+	margin-right: 5px;
+}
+.box h3{
+	text-transform: uppercase;
+	text-align: center;
+	padding-left: 15px;
+}
+.box img{
+	width:80px;
+ 	height:80px;
+ 	margin-left: 170px;
+}
+.box p.p1{
+text-transform: uppercase;
+text-align: center;
+padding-left: 20px;
+color: red;
+}
+.box p.p2{
+	text-align: center;
+	font-size: 12px;
+	padding-left: 20%;
+	padding-right: 20%;
+	color: white;
+}
+.hien a.hlink{
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-left: 170px;
 
+}
+.hien a.hlink:hover {
+	color: red;
+}
+.hien .box.diff{
+	margin-left: 50px;
 }
 .viet{
 
