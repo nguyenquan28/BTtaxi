@@ -294,8 +294,203 @@ color: red;
 .vlink a:hover{
 	color: red;
 }
-.chi{
+.chi {
+	width: 100%;
+	height: 500px;
+	/*background: pink;*/
+}
+.chi1{
+	width: 20%;
+	height: 20px;
+	margin: 0 auto;
+	/*background: red;*/
 
+}
+.chi1 .a1 {
+	float: left;
+	width: 42%;
+	height: 6px;
+	background: yellow;
+	margin-top: 9px;
+	margin-right:11px;
+}
+.chi1 .a2 {
+	float: left;
+	width: 20px;
+	height: 20px;
+	/*background: red;*/
+	border-radius: 99%;
+	border: 2px solid yellow;
+}
+.chi1 .a3 {
+	float: right;
+	width: 42%;
+	height: 6px;
+	background: yellow;
+	margin-top: 9px;
+}
+.chi2 {
+	clear: both;
+	width: 30%;
+	height:80px;
+	margin: 0 auto;
+	/*background: red;*/
+}
+.chi2 h3 {
+	color: black;
+	text-align: center;
+	text-transform: uppercase;
+	line-height:20px;
+	font-size: 25px;
+}
+.chi2 p {
+	color: black;
+	line-height: 20px;
+	font-size: 16px;
+	text-align: center;
+}
+.chi3 {
+	width: 85%;
+	height: 350px;
+	/*background: blue;*/
+	margin: 0 auto;
+}
+.chi3 .a {
+	float: left;
+	width: 24%;
+	height: 100%;
+	margin-right:10px;
+	/*background: orange;*/
+	border: 1px solid grey;
+}
+.a .a1 {
+	width: 100%;
+	height: 35%;
+	/*background: violet;*/
+}
+.a1 img {
+	width: 100%;
+	height: 100%;
+}
+.a h3 {
+	color: black;
+	text-align: center;
+	text-transform: uppercase;
+}
+.a .a2 {
+	margin-top: 20px;
+	width: 100%;
+	height: 20%;
+	/*background: violet;*/
+	border: 1px solid  grey;
+}
+.a2 .chichi {
+	float: left;
+	width: 50%;
+	height: 100%;
+	margin-bottom: 20px;
+}
+.chichi p {
+	padding-left: 15px;
+	text-align: left;
+	font-size: 14px;
+	color: grey;
+	line-height: 6PX;
+}
+.chichi p.cc {
+	padding-right: 15px;
+	text-align: right;
+	font-size: 14px;
+	color: grey;
+	line-height: 6PX;
+}
+.a .a3 {
+	clear: both;
+	margin-top: 20px;
+	width: 60%;
+	height: 50px;
+	background: black;
+	margin: 0 auto;
+	border-radius: 40px 80px 0px 40px;
+}
+.a3 a.link {
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 50px;
+	padding-left: 20px;
+}
+.a3 a.link:hover {
+	color: red;
+}
+.chi3 .b {
+	float: right;
+	width: 24%;
+	height: 100%;
+	/*background: orange;*/
+	border: 1px solid grey;
+}
+.b .a1 {
+	width: 100%;
+	height: 35%;
+	/*background: violet;*/
+}
+.a1 img {
+	width: 100%;
+	height: 100%;
+}
+.b h3 {
+	color: black;
+	text-align: center;
+	text-transform: uppercase;
+}
+.b .a2 {
+	margin-top: 20px;
+	width: 100%;
+	height: 20%;
+	/*background: violet;*/
+	border: 1px solid  grey;
+}
+.a2 .chichi {
+	float: left;
+	width: 50%;
+	height: 100%;
+	margin-bottom: 20px;
+}
+.chichi p {
+	padding-left: 15px;
+	text-align: left;
+	font-size: 14px;
+	color: grey;
+	line-height: 6PX;
+}
+.chichi p.cc {
+	padding-right: 15px;
+	text-align: right;
+	font-size: 14px;
+	color: grey;
+	line-height: 6PX;
+}
+.b .a3 {
+	clear: both;
+	margin-top: 20px;
+	width: 60%;
+	height: 50px;
+	background: black;
+	margin: 0 auto;
+	border-radius: 40px 80px 0px 40px;
+}
+.a3 a.link {
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 50px;
+	padding-left: 20px;
+}
+.a3 a.link:hover {
+	color: red;
 }
 .quan{
 	width: 100%;
